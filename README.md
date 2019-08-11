@@ -10,8 +10,8 @@ the divergence theorem, etc...
 On the experimental part, we then worked on numerous experiments in order to confirm our theoretical results. All of them are described
 and explained in the report enclosed herewith.
 
-This project was accomplished thanks to the help of researchers and teachers who accepted to help us and provide us with various papers:
+This project was accomplished thanks to the help of researchers and teachers who accepted to help us and provide us with various resources:
 
 Tony Lelièvre, researcher in applied mathematics at CERMICS
 
-François Vanderbrouck, physics teacher in the Louis-Le-Grand Classe Preparatoires
+François Vanderbrouck, physics teacher in the Louis-Le-Grand Classes Préparatoires.
