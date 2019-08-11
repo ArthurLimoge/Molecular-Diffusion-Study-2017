@@ -1,4 +1,4 @@
-# Molecular Diffusion 2017 Project
+# Molecular Diffusion Study (2017)
 Tutored Personal Work (French: TPE - Travaux Personnels Encadrés)
 
 This is a highschool project we have, Arthur LIMOGE and Justine CHOL have had the opportunity to work on in the beginning of the year 2017.
