@@ -1,12 +1,10 @@
 # Molecular Diffusion Study (2017)
 Tutored Personal Work (French: TPE - Travaux Personnels Encadrés)
 
-This is a highschool project we have, Arthur LIMOGE and Justine CHOL have had the opportunity to work on in the beginning of the year 2017.
+This is a highschool project we, Arthur LIMOGE and Justine CHOL have had the opportunity to work on in the beginning of the year 2017.
 
 We had decided to study molecular diffusion in physics and chemistry, which had us work first on the theoretical part:
-both on the probabilistic approach, with normal distribution, and on the thermodynamical approach, with Fick and Fourier's laws,
-the divergence theorem, etc...
-
+both on the probabilistic approach, and on the thermodynamical approach.
 On the experimental part, we then worked on numerous experiments in order to confirm our theoretical results. All of them are described
 and explained in the report enclosed herewith.
 
