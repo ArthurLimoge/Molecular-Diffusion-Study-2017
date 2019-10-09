@@ -4,8 +4,6 @@ Molecular Diffusion Study (2017) - Language: French
 This is a highschool research project we worked one with Justine Chol in 2017.
 It took place over the span of three months, and we decided to organize our research in three big axes:
 
-![](https://image.noelshack.com/fichiers/2019/41/3/1570644986-sans-titre-1.jpg)
-
 Probabilistic approach
 ----- 
 
@@ -24,6 +22,6 @@ This last part was a way for us to look back at the results we had obtained. We 
 
 We then decided to end the document by presenting a few limits of this model - mostly when it comes to quantum physics, by presenting examples of simulations in carbon nanotubes.
 
-### Additional details
+![](https://image.noelshack.com/fichiers/2019/41/3/1570644986-sans-titre-1.jpg)
 
 ###### This research project was done in 2017 at Highschool Saint Léon IX in Nancy, with the help of physicist François Vandenbrouck (Louis-Le-Grand), and mathematician Tony Lelièvre (CERMICS).
