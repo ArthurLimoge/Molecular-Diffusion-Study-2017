@@ -24,4 +24,4 @@ We then decided to end the document by presenting a few limits of this model - m
 
 ### Additional details
 
-This research project was done in 2017 at Highschool Saint Léon IX in Nancy, with the help of physicist François Vandenbrouck (Louis-Le-Grand), and mathematician Tony Lelièvre (CERMICS).
+###### This research project was done in 2017 at Highschool Saint Léon IX in Nancy, with the help of physicist François Vandenbrouck (Louis-Le-Grand), and mathematician Tony Lelièvre (CERMICS).
