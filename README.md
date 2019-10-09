@@ -4,6 +4,8 @@ Molecular Diffusion Study (2017) - Language: French
 This is a highschool research project we worked one with Justine Chol in 2017.
 It took place over the span of three months, and we decided to organize our research in three big axes:
 
+![](https://image.noelshack.com/fichiers/2019/41/3/1570644986-sans-titre-1.jpg)
+
 Probabilistic approach
 ----- 
 
